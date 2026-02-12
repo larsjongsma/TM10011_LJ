@@ -1,5 +1,5 @@
 # TM10011_LJ
-Opgaven voor TM10011
+Opgaven voor TM10011        Hotfix Hotfix Hotfix
 Update voor WG 1.2 hihihiha
 nog een update voor WG 1.2 (main.py unlocked)
 dit is nog origineel in de master branche geschreven!
